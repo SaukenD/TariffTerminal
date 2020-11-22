@@ -1,0 +1,54 @@
+body{
+
+    d-color: red;
+}
+.adad:hover{
+    background: #eec954;
+}
+.list-group-item:hover{
+    background: greenyellow;
+}
+@media (hover:hover) {
+    input:hover {
+        background: yellow;
+
+    }
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+input[class=aitu] {
+    -moz-appearance:textfield;
+}
+input[class=cvv] {
+    -webkit-text-security: disc;
+}
+.aitu{
+    width: 450px;
+    height: 100px;
+    font-size: 50px;
+}
+.cvv{
+    width: 450px;
+    height: 100px;
+    font-size: 50px;
+}
+.card{
+    width: 450px;
+    height: 100px;
+    font-size: 50px;
+}
+.mobnum{
+    width: 450px;
+    height: 100px;
+    font-size: 50px;
+}
+.money1{
+    width: 450px;
+    height: 100px;
+    font-size: 50px;
+}
